@@ -1,0 +1,28 @@
+body{
+  background-color:#cccccc;
+}
+button{
+  outline:none;
+}
+img{
+  margin-top:2%;
+  width:10%;
+  height:10%;
+}
+h2{
+  font-size:3em;
+}
+input{
+  font-size:1.2em;
+}
+button{
+  font-size:1.2em;
+}
+#copy{
+  font-size:1.2em;
+  margin-top:9%;
+}
+span{
+  font-size:1.3em;
+  color:#0055ff;
+}
